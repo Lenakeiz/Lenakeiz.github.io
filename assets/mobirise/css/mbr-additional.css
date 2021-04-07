@@ -1875,7 +1875,6 @@ body {
   opacity: 0;
   -webkit-transition: 0.2s opacity ease-in-out;
   transition: 0.2s opacity ease-in-out;
-  background: linear-gradient(to left, #66c7f4, #c1cad6) !important;
 }
 .cid-r5dSEd2nlg .mbr-gallery-item > div:hover .mbr-gallery-title::before {
   background: transparent !important;
@@ -1905,7 +1904,6 @@ body {
   opacity: 0.8;
   -webkit-transition: 0.2s background ease-in-out;
   transition: 0.2s background ease-in-out;
-  background: linear-gradient(to left, #66c7f4, #c1cad6) !important;
 }
 .cid-r5dSEd2nlg .mbr-gallery-item > div > span {
   color: #232323;
@@ -2447,6 +2445,13 @@ body {
   .cid-r5gBAQ2B1L .card-img span {
     font-size: 40px !important;
   }
+}
+.cid-r5gBAQ2B1L .mbr-text {
+  text-align: center;
+  color: #232323;
+}
+.cid-r5gBAQ2B1L H2 {
+  text-align: center;
 }
 .cid-r5gKxt8kHe {
   padding-top: 30px;
